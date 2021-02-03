@@ -5,4 +5,7 @@ package cn.itcast;
  * @since 2021/2/3 0003
  */
 public class TestJava {
+    public static void main(String[] args) {
+
+    }
 }
